@@ -121,6 +121,30 @@ https://www.kaggle.com/datasets
 * Patient Appointment Dataset)
 
 ---
+# 🌐 Live Dashboard
+
+🔗 Power BI Dashboard Link:
+https://app.powerbi.com/reportEmbed?reportId=e1a9e161-05e5-43a1-b63e-8f8e9be15d78&autoAuth=true&ctid=e93d71d6-b5c0-4b78-a861-d9964ecdfcd6
+
+---
+
+# 📌 How to View the Dashboard
+
+1. Click the Power BI dashboard link above.
+2. Explore interactive visualizations and filters.
+3. Analyze hospital operational insights, revenue trends, treatment performance, and appointment analytics.
+
+---
+
+# 📷 Dashboard Preview
+
+(Add screenshots here)
+
+Example:
+
+```md
+![Dashboard Screenshot](dashboard.png)
+```
 
 # 📈 Key KPIs
 
