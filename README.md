@@ -134,10 +134,9 @@ https://www.kaggle.com/datasets
 
 ---
 
-# 📷 Dashboard Preview
-
+# 📷 Sceenshot
 ```md
-[![Dashboard Preview](dashboard.png)](https://github.com/Aman-coder2004/Hospital_Analytics_Report/blob/main/Report_Analytics.jpeg)
+Example: ![Dashboard Preview](https://github.com/Aman-coder2004/Hospital_Analytics_Report/blob/main/Report_Analytics.jpeg)
 ```
 
 ---
