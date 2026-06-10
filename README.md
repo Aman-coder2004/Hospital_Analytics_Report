@@ -138,9 +138,9 @@ https://app.powerbi.com/reportEmbed?reportId=e1a9e161-05e5-43a1-b63e-8f8e9be15d7
 
 
 
-```md
-![Dashboard Screenshot](dashboard.png)
-```
+
+#![Dashboard Screenshot]((https://github.com/Aman-coder2004/Hospital_Analytics_Report/blob/main/Report_Analytics.jpeg))
+
 
 # 📈 Key KPIs
 
@@ -154,12 +154,7 @@ https://app.powerbi.com/reportEmbed?reportId=e1a9e161-05e5-43a1-b63e-8f8e9be15d7
 
 ---
 
-# 📷 Sceenshot
-```md
-Example: ![Dashboard Preview](https://github.com/Aman-coder2004/Hospital_Analytics_Report/blob/main/Report_Analytics.jpeg)
-```
 
----
 
 # 📌 Key Insights
 
