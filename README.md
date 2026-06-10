@@ -136,11 +136,7 @@ https://app.powerbi.com/reportEmbed?reportId=e1a9e161-05e5-43a1-b63e-8f8e9be15d7
 
 ---
 
-# 📷 Dashboard Preview
 
-(Add screenshots here)
-
-Example:
 
 ```md
 ![Dashboard Screenshot](dashboard.png)
